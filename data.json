@@ -1,0 +1,198 @@
+[
+  {
+    "date": "2026-10-27",
+    "window": "2026-10-25 08:00 to 2026-10-27 08:00 (UK time)",
+    "summary": "Quiet 48h for UK trade content on X. The biggest trade-relevant post was Martin Lewis on the pre-Budget mileage rate (vans/self-employed). Rain dominated site chatter ('rained off'). Fix Radio posted the most trade video, all low reach. On The Tools has not posted on X since 20 July.",
+    "hits": [
+      {
+        "url": "https://x.com/MartinSLewis/status/2114849705356402779",
+        "handle": "MartinSLewis",
+        "text": "NEWS. Pre-budget announcements just out. 1. Mileage rate for work... 45p to 55p under 10,000 miles to be made permanent. Rate for 10,000+ to rise from 25p to 35p...",
+        "likes": 303,
+        "reposts": 34,
+        "views": 238453,
+        "replies": 68,
+        "format": "Text news thread (money for self-employed / van drivers)",
+        "posted": "2026-10-26 22:40"
+      },
+      {
+        "url": "https://x.com/manfuego007/status/2114608538349629494",
+        "handle": "manfuego007",
+        "text": "Rained off today",
+        "likes": 44,
+        "reposts": 0,
+        "views": 628,
+        "format": "Single photo + 3-word caption (trade context not confirmed)",
+        "posted": "2026-10-26 06:42"
+      },
+      {
+        "url": "https://x.com/MenAtWork_MC/status/2114818790370546025",
+        "handle": "MenAtWork_MC",
+        "text": "(paraphrase) Tradesmen coming to the house: offering a brew, but only in one kind of mug",
+        "likes": 13,
+        "reposts": 1,
+        "views": 387,
+        "format": "Relatable observation + photo (customer side of a trade visit)",
+        "posted": "2026-10-26 20:37"
+      },
+      {
+        "url": "https://x.com/CobbettBill88/status/2114650063649542518",
+        "handle": "CobbettBill88",
+        "text": "Rained off going pub",
+        "likes": 8,
+        "reposts": 0,
+        "views": 445,
+        "replies": 2,
+        "format": "One-line text",
+        "posted": "2026-10-26 09:27"
+      },
+      {
+        "url": "https://x.com/FixRadioUK/status/2114704458751807792",
+        "handle": "FixRadioUK",
+        "text": "\"They're a little bit precious about it\" Chris Frediani on Plasterers vs Decorators",
+        "likes": 1,
+        "reposts": 0,
+        "views": 536,
+        "video_views": 787,
+        "replies": 1,
+        "format": "69s podcast/radio clip, trade-vs-trade rivalry",
+        "posted": "2026-10-26 13:03"
+      },
+      {
+        "url": "https://x.com/FixRadioUK/status/2114275351492694434",
+        "handle": "FixRadioUK",
+        "text": "This is a brilliant idea",
+        "likes": 1,
+        "reposts": 0,
+        "views": 393,
+        "video_views": 233,
+        "format": "74s reaction clip (site hack)",
+        "posted": "2026-10-25 08:38"
+      },
+      {
+        "url": "https://x.com/FixRadioUK/status/2114640494890189249",
+        "handle": "FixRadioUK",
+        "text": "Who tells the best lies on site?",
+        "likes": 1,
+        "reposts": 0,
+        "views": 310,
+        "video_views": 176,
+        "format": "47s vox-pop / question hook",
+        "posted": "2026-10-26 08:49"
+      },
+      {
+        "url": "https://x.com/FixRadioUK/status/2114750461647479169",
+        "handle": "FixRadioUK",
+        "text": "Why Tradies need to be careful using ChatGPT to assist them at work...",
+        "likes": 0,
+        "reposts": null,
+        "views": 217,
+        "video_views": 117,
+        "format": "24s talking clip (AI at work)",
+        "posted": "2026-10-26 16:06"
+      },
+      {
+        "url": "https://x.com/FixRadioUK/status/2114680210998047231",
+        "handle": "FixRadioUK",
+        "text": "Does anyone actually enjoy this weather?",
+        "likes": 0,
+        "reposts": null,
+        "views": 167,
+        "video_views": 59,
+        "format": "12s weather clip",
+        "posted": "2026-10-26 11:27"
+      },
+      {
+        "url": "https://x.com/skillbuilderuk/status/2114816287725523341",
+        "handle": "skillbuilderuk",
+        "text": "(paraphrase) Loft battery installation ban / SolarVault explainer",
+        "likes": 1,
+        "reposts": 1,
+        "views": 156,
+        "video_views": 49,
+        "format": "94s product explainer + question",
+        "posted": "2026-10-26 20:27"
+      },
+      {
+        "url": "https://x.com/RoofingToday/status/2114659295241359786",
+        "handle": "RoofingToday",
+        "text": "(paraphrase) FMB Budget call: lack of confidence in builders costing \u00a311.2bn",
+        "likes": 1,
+        "reposts": null,
+        "views": 62,
+        "format": "News link card",
+        "posted": "2026-10-26"
+      }
+    ],
+    "benchmarks": [
+      {
+        "url": "https://x.com/onthetoolstv/status/2077771487415574821",
+        "handle": "onthetoolstv",
+        "text": "Keep a lid on this bottle job",
+        "likes": 26,
+        "reposts": 1,
+        "views": 85373,
+        "video_views": 54431,
+        "format": "13s fail clip + pun caption",
+        "posted": "2026-07-16 (older, for format reference only)"
+      }
+    ],
+    "keywords": [
+      "rained off",
+      "weather / storm",
+      "Budget (Wed 28 Oct)",
+      "mileage rate 55p",
+      "Making Tax Digital (7 Nov deadline)",
+      "plasterers vs decorators",
+      "best lies on site",
+      "brew",
+      "on the tools",
+      "ChatGPT for tradies"
+    ],
+    "formats": [
+      "Short weather/rained-off posts: tiny captions, real photos, strong relatability in the UK this week",
+      "Money news for self-employed (Budget, mileage, MTD) gets the biggest reach by far",
+      "Trade-vs-trade rivalry and 'who tells the best lies on site?' question hooks (Fix Radio)",
+      "10-15s fail clip with a one-line pun caption (On The Tools benchmark: up to 85K impressions)",
+      "Customer-side observations of tradespeople visiting (the brew, the mug)"
+    ],
+    "sounds": [
+      "No trending sounds detectable via X reads; check Instagram Reels audio on the phone before posting"
+    ],
+    "ideas": [
+      {
+        "title": "Rained off? Clear the admin before the brew goes cold",
+        "hook": "Rained off. Again.",
+        "why": "'Rained off' was the most common UK site chatter this window (CobbettBill88, manfuego007, Fix Radio weather clip).",
+        "build": "5-8s of real rain on Dene's own van windscreen (no face needed), then real app screens: 02-enquiries -> 03a-quotes -> 05b-invoice-paid. Captions in UK English. End card: Less admin. More trade.",
+        "assets": [
+          "app-screens/clean/02-enquiries.png",
+          "app-screens/clean/03a-quotes.png",
+          "app-screens/clean/05b-invoice-paid.png",
+          "media-pack/reels-end-card-1080x1920.png"
+        ]
+      },
+      {
+        "title": "Customer texts Part 2: the quote chase",
+        "hook": "\"Any chance of a cash price?\"",
+        "why": "Repeats our best format (chat bubbles, no people, clearly British). Customer-side trade posts (MenAtWork_MC) show the customer relationship is relatable.",
+        "build": "Chat-bubble Reel using only real texts: Dene's own or follower-submitted screenshots, anonymised with permission. No invented lines. Resolve on the real 03c-customer-quote-accepted screen.",
+        "assets": [
+          "reels/customer-texts/",
+          "app-screens/clean/03b-quote-detail.png",
+          "app-screens/clean/03c-customer-quote-accepted.png"
+        ]
+      },
+      {
+        "title": "Budget day: what changed for your van",
+        "hook": "55p a mile, permanent?",
+        "why": "Martin Lewis's pre-Budget mileage post hit 238K views and 303 likes, the biggest trade-relevant post in the window. Budget is Wed 28 Oct; MTD quarterly deadline is 7 Nov.",
+        "build": "Post after the Budget, using only confirmed figures with a source on screen. Text cards on navy/orange, then real 01b-home-money screen with 'know what you've earned'. Never claim a mileage or tax feature the app doesn't have.",
+        "assets": [
+          "app-screens/clean/01b-home-money.png",
+          "media-pack/"
+        ]
+      }
+    ]
+  }
+]
