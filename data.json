@@ -116,7 +116,7 @@
    {
     "url": "https://x.com/RoofingToday/status/2114659295241359786",
     "handle": "RoofingToday",
-    "text": "(paraphrase) FMB Budget call: lack of confidence in builders costing \u00a311.2bn",
+    "text": "(paraphrase) FMB Budget call: lack of confidence in builders costing £11.2bn",
     "likes": 1,
     "reposts": null,
     "views": 62,
@@ -198,7 +198,7 @@
  {
   "date": "2026-10-28",
   "window": "2026-10-27 07:00 to 2026-10-28 07:20 (UK time)",
-  "summary": "Budget day (Wed 28 Oct) dominates UK X: Martin Lewis and MoneySavingExpert posts on mileage rates and self-employed parental pay are the biggest trade-relevant reads. UK trade comedy on X stayed quiet; #tradie is swamped with spam/adult content. TikTok was blocked by a captcha this run. On YouTube Shorts the strongest UK-looking format is the POV '\u00a3100 call out' job vlog from @omelectrical_.",
+  "summary": "Budget day (Wed 28 Oct) dominates UK X: Martin Lewis and MoneySavingExpert posts on mileage rates and self-employed parental pay are the biggest trade-relevant reads. UK trade comedy on X stayed quiet; #tradie is swamped with spam/adult content. TikTok was blocked by a captcha this run. On YouTube Shorts the strongest UK-looking format is the POV '£100 call out' job vlog from @omelectrical_.",
   "hits": [
    {
     "platform": "x",
@@ -264,19 +264,19 @@
     "platform": "youtube",
     "url": "https://www.youtube.com/shorts/LEndie1c490",
     "handle": "omelectrical_",
-    "text": "\u00a3100 call out! Broken shower!",
+    "text": "£100 call out! Broken shower!",
     "likes": null,
     "reposts": null,
     "views": 14000,
     "format": "POV job vlog, spoken intro 'We've got an easy one, a call out to get done this morning'",
     "posted": "this week (exact date not shown)",
-    "note": "views as shown '14k'; UK signal is the \u00a3 only"
+    "note": "views as shown '14k'; UK signal is the £ only"
    },
    {
     "platform": "youtube",
     "url": "https://www.youtube.com/shorts/X9-35vWm0VY",
     "handle": "omelectrical_",
-    "text": "How quick can an electrician earn \u00a3100",
+    "text": "How quick can an electrician earn £100",
     "likes": 145,
     "reposts": null,
     "views": 9100,
@@ -305,13 +305,13 @@
    "Budget",
    "mileage rate",
    "self-employed",
-   "\u00a3100 call out",
-   "how quick can an electrician earn \u00a3100",
+   "£100 call out",
+   "how quick can an electrician earn £100",
    "refuse to pay the plumber",
    "pick and dip"
   ],
   "formats": [
-   "POV job vlog with a money hook (\u00a3100 call out)",
+   "POV job vlog with a money hook (£100 call out)",
    "Against-the-clock challenge",
    "Customer won't-pay skit",
    "Budget/money explainer for self-employed"
@@ -324,9 +324,9 @@
   ],
   "ideas": [
    {
-    "title": "\u00a3100 call out: the job takes 20 minutes, the paperwork shouldn't",
-    "hook": "\u00a3100 call out. Job done in 20 mins. Invoice sent before I'm back in the van.",
-    "why": "POV '\u00a3100 call out' Shorts from @omelectrical_ hit 14k and 9.1k views this week; money-in-the-hook is clearly British (\u00a3).",
+    "title": "£100 call out: the job takes 20 minutes, the paperwork shouldn't",
+    "hook": "£100 call out. Job done in 20 mins. Invoice sent before I'm back in the van.",
+    "why": "POV '£100 call out' Shorts from @omelectrical_ hit 14k and 9.1k views this week; money-in-the-hook is clearly British (£).",
     "build": "App demo: on-screen timer over real app screens, enquiry > job > invoice sent > paid. Text on screen, no people. UK English captions.",
     "source": "https://www.youtube.com/shorts/LEndie1c490",
     "assets": [
@@ -352,6 +352,163 @@
     "build": "Carousel or text-on-screen Reel with 3-4 verified Budget points for sole-trader tradespeople (mileage rate, self-employed parental pay, anything on MTD), linking each to the official source. End on the app's mileage/expenses or invoices screen if it exists.",
     "source": "https://x.com/MartinSLewis/status/2115181460215017781",
     "assets": []
+   }
+  ]
+ },
+ {
+  "date": "2026-10-30",
+  "window": "2026-10-29 07:00 to 2026-10-30 07:30 (UK time); YouTube 'this week'",
+  "summary": "Thin day for UK trade on X; biggest UK signal is post-Budget tax anger hitting self-employed (Alan Smith tax-rise list 171k views, 'zero benefit to MTD' outperforming). On YouTube, OM Electrical's £-priced POV 'Can you...?' job Shorts keep winning (194k on the EV charger one). TikTok blocked by slider captcha again (4th day).",
+  "hits": [
+   {
+    "platform": "x",
+    "url": "https://x.com/AlanJLSmith/status/2115791609467895849",
+    "handle": "AlanJLSmith",
+    "text": "Update: In the 27 months since Labour came to power... employer NI up, thresholds frozen to 2031...",
+    "likes": 4129,
+    "reposts": 1379,
+    "views": 171434,
+    "replies": 261,
+    "format": "Bullet list of tax rises (Budget)",
+    "posted": "2026-10-29 13:03"
+   },
+   {
+    "platform": "x",
+    "url": "https://x.com/realhansard/status/2115734668733780178",
+    "handle": "realhansard",
+    "text": "There is zero benefit to MTD for the self-employed.",
+    "likes": 40,
+    "reposts": 5,
+    "views": 1393,
+    "replies": 6,
+    "format": "One-line hot take + quote",
+    "posted": "2026-10-29 09:17"
+   },
+   {
+    "platform": "x",
+    "url": "https://x.com/DamonDewdney/status/2115700213566365869",
+    "handle": "DamonDewdney",
+    "text": "A plumber, a café owner, a builder running two vans... VAT threshold would rise from £90,000 to £150,000",
+    "likes": 166,
+    "reposts": 41,
+    "views": 1091,
+    "replies": 5,
+    "format": "Relatable trade personas + tax policy",
+    "posted": "2026-10-29 07:00"
+   },
+   {
+    "platform": "x",
+    "url": "https://x.com/FixRadioUK/status/2115847920616411634",
+    "handle": "FixRadioUK",
+    "text": "Do you agree with this?☕️🧐 [🎥bobtok1993]",
+    "likes": 2,
+    "reposts": 0,
+    "views": 2327,
+    "replies": 1,
+    "format": "Reposted creator clip + 'Do you agree?' question",
+    "posted": "2026-10-29 16:47"
+   },
+   {
+    "platform": "youtube",
+    "url": "https://www.youtube.com/@omelectrical_/shorts",
+    "handle": "omelectrical_",
+    "text": "£1200 car charger install #evchargers #electrical #electrician #pov",
+    "views": 194000,
+    "format": "POV job Short with £ price in title",
+    "posted": "not shown (recent on Latest tab)",
+    "note": "Same channel: Socket install 75k, Can you install a shower? 58k, fuseboard 48k, coffee machine power 46k, £100 call out broken shower 40k"
+   },
+   {
+    "platform": "youtube",
+    "url": "https://www.youtube.com/shorts/4sweXrJWJTk",
+    "handle": "not captured",
+    "text": "You ever had to LOCK a consumer unit up?!",
+    "views": 11000,
+    "format": "Question hook, sparky safety",
+    "posted": "this week"
+   },
+   {
+    "platform": "youtube",
+    "url": "https://www.youtube.com/shorts/QVjb_U_4d3w",
+    "handle": "not captured",
+    "text": "Meeting the great british tradespeople",
+    "views": 10000,
+    "format": "Character/meet-the-trades montage",
+    "posted": "this week"
+   },
+   {
+    "platform": "youtube",
+    "url": "https://www.youtube.com/shorts/TYVrL4DNfIk",
+    "handle": "not captured",
+    "text": "Teaching the new labourer how to use a hod #banter",
+    "views": 5600,
+    "format": "Site banter, new-lad wind-up",
+    "posted": "this week"
+   },
+   {
+    "platform": "youtube",
+    "url": "https://www.youtube.com/shorts/b2_LpaK3A_0",
+    "handle": "not captured",
+    "text": "another difference building in the uk vs Australia",
+    "views": 1900,
+    "format": "UK vs abroad comparison",
+    "posted": "this week"
+   }
+  ],
+  "keywords": [
+   "MTD",
+   "making tax digital",
+   "VAT threshold",
+   "Budget",
+   "£100 call out",
+   "can you install",
+   "consumer unit",
+   "hod",
+   "great british tradespeople"
+  ],
+  "formats": [
+   "POV job Short with £ price in the hook (OM Electrical)",
+   "'Can you [job]?' customer-question hook",
+   "Bullet-list of tax hits on the self-employed",
+   "One-line hot take on MTD",
+   "'Do you agree with this?' question post",
+   "UK vs abroad comparison"
+  ],
+  "ideas": [
+   {
+    "title": "Budget hit list for sole traders: what it means for your van and your invoices",
+    "hook": "The Budget, explained for a sparky in 15 seconds.",
+    "why": "Alan Smith's tax-rise list did 171k views / 4.1k likes; Budget anger is the UK self-employed topic of the week.",
+    "build": "Text-on-screen list Reel, plain British wording, end card: 'Less admin. More living.' Only state facts from the source.",
+    "source": "https://x.com/AlanJLSmith/status/2115791609467895849"
+   },
+   {
+    "title": "App demo: MTD panic vs 'it's already in the app'",
+    "hook": "Customer: 'Is MTD gonna be a nightmare for you?' Me:",
+    "why": "'Zero benefit to MTD for the self-employed' outperformed the account's usual; MTD is a live UK pain.",
+    "build": "App demo: chat-bubble opener then real screens of invoices with VAT and totals, job list. Don't claim MTD filing unless the app does it.",
+    "source": "https://x.com/realhansard/status/2115734668733780178"
+   },
+   {
+    "title": "'Can you just...?' customer texts",
+    "hook": "Customer texts: 'Can you install a shower? Should be quick.'",
+    "why": "OM Electrical's 'Can you [job]?' £-priced POV Shorts hit 40k-194k views.",
+    "build": "Our customer-texts chat-bubble format, escalating 'can you just' asks, final bubble is the £ quote sent from TradeMyWay.",
+    "source": "https://www.youtube.com/@omelectrical_/shorts"
+   },
+   {
+    "title": "£100 call out, but the paperwork's free",
+    "hook": "£1200 job. Quote sent before the kettle's boiled.",
+    "why": "Money-in-the-hook POV (£1200 EV charger 194k, £100 call out 40k) keeps winning and is clearly British.",
+    "build": "App demo with on-screen timer: enquiry > quote with VAT > accepted > invoice. Real screens, no people.",
+    "source": "https://www.youtube.com/@omelectrical_/shorts"
+   },
+   {
+    "title": "Do you agree with this? Trade hot-take poll",
+    "hook": "Unpopular opinion: 'It's only a quick job' should cost double. Agree?",
+    "why": "Fix Radio's 'Do you agree with this?' clip got ~4x its usual views; question hooks drive comments.",
+    "build": "Meme Reel, one bold customer-quote statement, cartoon tradie, caption asks agree/disagree.",
+    "source": "https://x.com/FixRadioUK/status/2115847920616411634"
    }
   ]
  }
