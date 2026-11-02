@@ -511,5 +511,203 @@
     "source": "https://x.com/FixRadioUK/status/2115847920616411634"
    }
   ]
+ },
+ {
+  "date": "2026-11-02",
+  "window": "2026-10-31 07:00 to 2026-11-02 07:15 UK time (X); TikTok/YouTube Shorts last ~7 days",
+  "summary": "Thin again on X for UK trade (no UK trade post broke 3.2k views). The real signal is on TikTok: UK site skits with a one-line trade punchline caption. @welsh_erectionboys' 'Sparkies are first aid trained' skit hit 77.8K likes in 5 days (their usual is 785 to 54.5K), and White's Scaffolding's 'trying to tell the boss something' banter skit fits Dene's new boss/lads skit direction. YouTube Shorts this week: nothing UK trade over 2.1k views. TikTok tag pages wouldn't load, so search was used instead; TikTok search cards showed likes, not views.",
+  "hits": [
+   {
+    "platform": "tiktok",
+    "url": "https://www.tiktok.com/@welsh_erectionboys/video/7701403608004250912",
+    "handle": "welsh_erectionboys",
+    "text": "Atleast we know the Sparkies are first aid trained",
+    "likes": 77800,
+    "reposts": null,
+    "views": null,
+    "format": "One-gag site comedy skit, punchline as caption",
+    "sound": "sonido original - Rocket 26",
+    "posted": "2026-10-27",
+    "note": "Account's other posts 785-54.5K likes; location Ribble Valley, GB"
+   },
+   {
+    "platform": "tiktok",
+    "url": "https://www.tiktok.com/@whites.scaffoldin/video/7701727410886135062",
+    "handle": "whites.scaffoldin",
+    "text": "I think he's trying to tell the boss something😂👀 Subtle as always, Butch",
+    "likes": null,
+    "reposts": null,
+    "views": null,
+    "format": "Site banter skit, boss angle, 39s",
+    "sound": null,
+    "posted": "2026-10-28",
+    "note": "#SiteBanter #UKConstruction; metrics not shown on search card"
+   },
+   {
+    "platform": "tiktok",
+    "url": "https://www.tiktok.com/@welsh_erectionboys/video/7703263065118199062",
+    "handle": "welsh_erectionboys",
+    "text": "What's your favourite scary movie sparky?",
+    "likes": 785,
+    "reposts": null,
+    "views": null,
+    "format": "Halloween skit",
+    "sound": "Babydoll - Jamie Miller",
+    "posted": "2026-11-01",
+    "note": "Low benchmark for the same account"
+   },
+   {
+    "platform": "youtube",
+    "url": "https://www.youtube.com/shorts/UpY7D2zEhp4",
+    "handle": null,
+    "text": "Council threatens to sue me! On top of taking my builders yard!",
+    "likes": null,
+    "reposts": null,
+    "views": 2100,
+    "format": "Talking-head rant",
+    "sound": null,
+    "posted": "this week"
+   },
+   {
+    "platform": "youtube",
+    "url": "https://www.youtube.com/shorts/2SO_BPr3SX0",
+    "handle": null,
+    "text": "I'm a builder, not a brickie! 😂🧱",
+    "likes": null,
+    "reposts": null,
+    "views": 1100,
+    "format": "Trade identity joke",
+    "sound": null,
+    "posted": "this week"
+   },
+   {
+    "platform": "youtube",
+    "url": "https://www.youtube.com/shorts/oa3_2d1-Ls4",
+    "handle": "The Banter Van",
+    "text": "UK trade people, plumbers, electricians, builders, apprentices...",
+    "likes": null,
+    "reposts": null,
+    "views": 1500,
+    "format": "Banter compilation",
+    "sound": null,
+    "posted": "this week"
+   },
+   {
+    "platform": "x",
+    "url": "https://x.com/FixRadioUK/status/2116813892726784115",
+    "handle": "FixRadioUK",
+    "text": "\"I walked away a happy man\" Trevor Steven on Sir Bobby Robson",
+    "likes": 53,
+    "reposts": 5,
+    "views": 3140,
+    "replies": 2,
+    "format": "Football interview clip (non-trade, trade radio)",
+    "posted": "2026-11-01 08:45"
+   },
+   {
+    "platform": "x",
+    "url": "https://x.com/HertsPCC/status/2116847720748990767",
+    "handle": "HertsPCC",
+    "text": "If you're a tradesperson and you've been affected by tool theft, I want to hear from you.",
+    "likes": 1,
+    "reposts": 0,
+    "views": 101,
+    "replies": 0,
+    "format": "Tool theft survey call-out",
+    "posted": "2026-11-01 11:00"
+   },
+   {
+    "platform": "x",
+    "url": "https://x.com/TheJordanFarley/status/2116589883288334393",
+    "handle": "TheJordanFarley",
+    "text": "I was charging about £60 an hour on the tools and could pay an editor about £20 an hour...",
+    "likes": 3,
+    "reposts": 0,
+    "views": 114,
+    "replies": 1,
+    "format": "Ex-tradie money tip video",
+    "posted": "2026-10-31 17:55"
+   }
+  ],
+  "keywords": [
+   "sparkies",
+   "site banter",
+   "the boss",
+   "the gaffer",
+   "apprentice",
+   "first aid trained",
+   "builder not a brickie",
+   "tool theft",
+   "£60 an hour on the tools"
+  ],
+  "formats": [
+   "One-gag site skit with the punchline as the caption (TikTok, 77.8K likes)",
+   "Boss-angle banter skit: the lads hint at something to the boss",
+   "Trade identity jokes ('I'm a builder, not a brickie')",
+   "Seasonal skits (Halloween) underperformed on the same account"
+  ],
+  "sounds": [
+   "sonido original - Rocket 26 (welsh_erectionboys)",
+   "Babydoll - Jamie Miller (low performer)"
+  ],
+  "blocked": [
+   "TikTok tag pages stayed on loading placeholders (no captcha); used search instead",
+   "TikTok search cards show likes only, no views",
+   "YouTube Shorts hooks and sounds not opened"
+  ],
+  "ideas": [
+   {
+    "title": "When the boss is away",
+    "hook": "WHEN THE GAFFER SAYS 'BACK IN 5'",
+    "why": "Dene's own example; the boss skit angle is live (White's Scaffolding, 28 Oct)",
+    "build": "Lads sat on upturned buckets with brews; van door sounds, everyone leaps up and 'works' (one sweeping a clean floor, one holding a level to nothing). Punchline by sec 4: boss walks back in, says 'forgot me phone', leaves, everyone sits back down. Caption: 'Who's the first one to sit back down on your site?'",
+    "source": "https://www.tiktok.com/@whites.scaffoldin/video/7701727410886135062",
+    "assets": [
+     "realistic AI people test (Dene approval needed)"
+    ]
+   },
+   {
+    "title": "First aid trained",
+    "hook": "'HE'S FINE, I'VE DONE THE COURSE'",
+    "why": "Same one-gag structure as the 77.8K-like Welsh Erection Boys skit",
+    "build": "Apprentice taps his thumb with a hammer; three lads crowd round, one confidently applies a whole roll of gaffer tape and a Greggs napkin. Punchline: 'Right, back on the tools.' Caption: 'Who's the first aider on your site, and should they be?'",
+    "source": "https://www.tiktok.com/@welsh_erectionboys/video/7701403608004250912",
+    "assets": [
+     "realistic AI people test"
+    ]
+   },
+   {
+    "title": "Builder, not a brickie",
+    "hook": "'YOU'RE A BUILDER, YOU CAN DO BRICKS'",
+    "why": "Trade identity jokes keep landing (YouTube Short this week, 1.1k)",
+    "build": "Customer points at a wall: 'You're a builder, can you just do the bricks?' Cut to the lad staring into camera, then the brickie mate in the van shaking his head. Punchline: 'And the plastering. And the leccy.' Caption: 'What's the job customers think you do?'",
+    "source": "https://www.youtube.com/shorts/2SO_BPr3SX0",
+    "assets": [
+     "realistic AI people test"
+    ]
+   },
+   {
+    "title": "Apprentice sent for a long weight (app demo)",
+    "hook": "'GO ASK THE GAFFER FOR A LONG WAIT'",
+    "why": "Classic UK site prank skit; the twist shows the real app",
+    "build": "Apprentice asks the gaffer for 'a long weight'; gaffer is on his phone, says 'stand there'. Punchline: while the lad waits, the gaffer has sent a quote and got it accepted in TradeMyWay. 'That's how long a quote takes. Now go and make the tea.' Caption: 'What did they send you for on your first day?'",
+    "source": "https://www.tiktok.com/@whites.scaffoldin/video/7701727410886135062",
+    "assets": [
+     "realistic AI people test",
+     "real app screen: quote sent/accepted"
+    ]
+   },
+   {
+    "title": "£60 an hour, doing paperwork",
+    "hook": "'£60 AN HOUR ON THE TOOLS. £0 AN HOUR DOING INVOICES AT 10PM'",
+    "why": "UK tradie money angle (£60/hr post, 31 Oct) plus the evening admin pain the app solves",
+    "build": "Lad at the kitchen table at night, surrounded by receipts, mate texting 'pub?'. Punchline: he sends the invoice in one tap and is out the door. Caption: 'What time do you do your admin?'",
+    "source": "https://x.com/TheJordanFarley/status/2116589883288334393",
+    "assets": [
+     "realistic AI people test",
+     "real app screen: invoice"
+    ]
+   }
+  ]
  }
 ]
