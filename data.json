@@ -709,5 +709,194 @@
     ]
    }
   ]
+ },
+ {
+  "date": "2026-11-09",
+  "window": "2026-11-07 07:00 to 2026-11-09 07:20 UK time (X, plus FixRadioUK last 2 weeks for its median); YouTube Shorts this week; TikTok blocked by captcha",
+  "summary": "Thin run. On X, Fix Radio's 'Are electricians really the most irritating trade?' hit 3,159 views, 4.7x its 668 median, so trade-vs-trade rivalry is today's top format; their 'blame game' (3.4x) and 'tradespeople John Lewis advert' (2.6x) back it up. YouTube Shorts: @omelectrical_'s '£100 call out! Broken shower!' POV is 2.7x its 27.5k median (date unconfirmed). TikTok grids were blocked by a slider captcha, so no TikTok hits. Hashtag searches on X were mostly spam, adult or non-UK.",
+  "hits": [
+   {
+    "platform": "x",
+    "url": "https://x.com/FixRadioUK/status/2119347990041153844",
+    "handle": "FixRadioUK",
+    "text": "Are Electricians really the most irritating trade?",
+    "views": 3159,
+    "likes": 4,
+    "reposts": null,
+    "posted": "2026-11-08 08:35 UTC",
+    "format": "Trade-vs-trade debate clip (studio question)",
+    "account_median": 668,
+    "median_basis": "median views of FixRadioUK's last 19 X posts (26 Oct to 8 Nov)",
+    "outlier_ratio": 4.73
+   },
+   {
+    "platform": "x",
+    "url": "https://x.com/FixRadioUK/status/2118059560933937226",
+    "handle": "FixRadioUK",
+    "text": "The never-ending blame game in Construction...",
+    "views": 2259,
+    "likes": 5,
+    "reposts": null,
+    "posted": "2026-11-04 19:15 UTC",
+    "format": "Relatable site moan clip (benchmark, outside 48h window)",
+    "account_median": 668,
+    "median_basis": "median views of FixRadioUK's last 19 X posts (26 Oct to 8 Nov)",
+    "outlier_ratio": 3.38
+   },
+   {
+    "platform": "x",
+    "url": "https://x.com/FixRadioUK/status/2117702469832560737",
+    "handle": "FixRadioUK",
+    "text": "If Tradespeople made the John Lewis Christmas Advert",
+    "views": 1709,
+    "likes": 21,
+    "reposts": null,
+    "posted": "2026-11-03 19:36 UTC",
+    "format": "Seasonal parody (benchmark, outside window)",
+    "account_median": 668,
+    "median_basis": "median views of FixRadioUK's last 19 X posts (26 Oct to 8 Nov)",
+    "outlier_ratio": 2.56
+   },
+   {
+    "platform": "x",
+    "url": "https://x.com/FixRadioUK/status/2118263641187242261",
+    "handle": "FixRadioUK",
+    "text": "Would you expect anything in return if you helped a fellow tradie?",
+    "views": 1297,
+    "likes": 5,
+    "reposts": null,
+    "posted": "2026-11-05 08:46 UTC",
+    "format": "Trade etiquette question (benchmark, outside window)",
+    "account_median": 668,
+    "median_basis": "median views of FixRadioUK's last 19 X posts (26 Oct to 8 Nov)",
+    "outlier_ratio": 1.94
+   },
+   {
+    "platform": "youtube",
+    "url": "https://www.youtube.com/@omelectrical_/shorts",
+    "handle": "omelectrical_",
+    "text": "£100 call out! Broken shower! #sparky #electrical #electrician #pov",
+    "views": 75000,
+    "likes": null,
+    "posted": null,
+    "format": "POV job with price in the title",
+    "account_median": 27500,
+    "median_basis": "median of 10 most recent Shorts on the channel page (9.8k-75k)",
+    "outlier_ratio": 2.73,
+    "note": "Exact Short URL and posting date not read; may be older than this week"
+   },
+   {
+    "platform": "youtube",
+    "url": "https://www.youtube.com/shorts/I89oK6nSfzY",
+    "handle": null,
+    "text": "1st fixing an extension",
+    "views": 9300,
+    "likes": null,
+    "posted": "this week",
+    "format": "Job progress clip",
+    "account_median": null,
+    "outlier_ratio": null
+   },
+   {
+    "platform": "youtube",
+    "url": "https://www.youtube.com/shorts/hFCSnw-gsy8",
+    "handle": null,
+    "text": "A little knowledge can be dangerous",
+    "views": 9000,
+    "likes": null,
+    "posted": "this week",
+    "format": "DIY fail reaction",
+    "account_median": null,
+    "outlier_ratio": null
+   },
+   {
+    "platform": "youtube",
+    "url": "https://www.youtube.com/shorts/rxgQLwibprQ",
+    "handle": null,
+    "text": "Why Do British Plugs Have a Fuse Inside?",
+    "views": 6400,
+    "likes": null,
+    "posted": "this week",
+    "format": "UK explainer",
+    "account_median": null,
+    "outlier_ratio": null
+   },
+   {
+    "platform": "youtube",
+    "url": "https://www.youtube.com/shorts/KiN9Q1H20Eg",
+    "handle": null,
+    "text": "posh electricians",
+    "views": 1200,
+    "likes": null,
+    "posted": "this week",
+    "format": "Trade stereotype skit",
+    "account_median": null,
+    "outlier_ratio": null
+   }
+  ],
+  "hits_by_platform": {
+   "x": 4,
+   "youtube": 5,
+   "tiktok": 0
+  },
+  "keywords": [
+   "most irritating trade",
+   "blame game",
+   "call out",
+   "mates rates",
+   "Christmas advert",
+   "sparky",
+   "pov"
+  ],
+  "formats": [
+   "Trade-vs-trade rivalry question",
+   "Blame chain",
+   "Price-in-the-hook POV",
+   "Seasonal parody"
+  ],
+  "sounds": [],
+  "ideas": [
+   {
+    "title": "Which trade is the most irritating?",
+    "hook_formula": "Trade-vs-trade rivalry question",
+    "hook": "Customer texts: 'Which one of you lot is the most annoying, sparkies or plumbers?'",
+    "source": "https://x.com/FixRadioUK/status/2119347990041153844",
+    "outlier_ratio": 4.73,
+    "build": "Chat-bubble 'customer texts' Reel, British wording, caption 'Send this to the sparky who thinks it's not him'"
+   },
+   {
+    "title": "The blame chain",
+    "hook_formula": "Who-broke-it blame chain",
+    "hook": "Customer: 'Who drilled through the pipe?' Every trade replies 'wasn't me'",
+    "source": "https://x.com/FixRadioUK/status/2118059560933937226",
+    "outlier_ratio": 3.38,
+    "build": "Group-chat bubbles, plumber/sparky/chippy each passing the buck, TMW end card on job notes"
+   },
+   {
+    "title": "£100 just to come out?",
+    "hook_formula": "Price-in-the-hook call-out reaction",
+    "hook": "'£100 call out?! It's only a shower'",
+    "source": "https://www.youtube.com/@omelectrical_/shorts",
+    "outlier_ratio": 2.73,
+    "build": "Customer-quote meme Reel, ratio unconfirmed for recency; link to clear quotes in TMW"
+   },
+   {
+    "title": "If tradespeople made the Christmas advert",
+    "hook_formula": "Seasonal parody (trade version of a UK Christmas moment)",
+    "hook": "'Christmas Eve, 4pm: customer texts asking if you can just pop round'",
+    "source": "https://x.com/FixRadioUK/status/2117702469832560737",
+    "outlier_ratio": 2.56,
+    "build": "Chat-bubble Christmas series, no people, start late Nov"
+   },
+   {
+    "title": "Mates rates expectations",
+    "hook_formula": "Favour-for-a-mate etiquette question",
+    "hook": "'You helped him out Saturday. He's now sending you his mum's address.'",
+    "source": "https://x.com/FixRadioUK/status/2118263641187242261",
+    "outlier_ratio": 1.94,
+    "build": "Customer-texts bubbles, caption nudges a send to the mate who always asks"
+   }
+  ],
+  "notes": "X reads used: 7. TikTok captcha blocked @welsh_erectionboys (96.4K followers) and @graftback (27.4K) grids. YouTube search page held hidden text aimed at AI agents; not followed."
  }
 ]
