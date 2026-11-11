@@ -898,5 +898,256 @@
    }
   ],
   "notes": "X reads used: 7. TikTok captcha blocked @welsh_erectionboys (96.4K followers) and @graftback (27.4K) grids. YouTube search page held hidden text aimed at AI agents; not followed."
+ },
+ {
+  "date": "2026-11-11",
+  "window": "2026-11-09 07:25 to 2026-11-11 07:25 UK time (X); YouTube Shorts last 3-5 days; TikTok pages failed to load (blank/skeleton)",
+  "summary": "X's UK trade spike was Tommy Walsh's death (9 Nov): FixRadioUK news post 5.5x its 839 median, tribute clip 3.3x, a Wilko nostalgia post 14.5x on a small account. Top raw X ratio was RefinaLtd's tradie UGC (18.0x, likely boosted). YouTube: Peter Hannam Carpentry's 'rate it out of 10' insulation-cut Short 17.2x its 10.5k median; OM Electrical IKEA wardrobes 2.9x. Customer-money moan ('where my money is going') 1.9x on Fix Radio. TikTok didn't load.",
+  "hits": [
+   {
+    "platform": "x",
+    "url": "https://x.com/RefinaLtd/status/2119777106972332532",
+    "handle": "RefinaLtd",
+    "text": "Brad Smith Plastering new REFINA sponge and our wash bucket, great combo 👊\n\nFind all the tools info you need here: https://t.co/wtNsNqoUEH\n\n#plastering #plasterer #plasteringtools https://t.co/vXnScSIyMs",
+    "views": 8525,
+    "likes": 11,
+    "reposts": 1,
+    "posted": "2026-11-09T13:00:20.000Z",
+    "format": "brand UGC repost: named plastering firm using product (video/photo)",
+    "account_median": 472.5,
+    "median_basis": "median impression_count of 20 20 recent originals, 2026-09-29 to 2026-11-09 (X user timeline read 11 Nov 2026)",
+    "outlier_ratio": 18.04,
+    "flag": "UK plastering/rendering tools brand (Poole). Its timeline shows repeated ~6k-9k spikes on otherwise ~150-900 view posts, so this is likely paid promotion, not organic. Treat with caution."
+   },
+   {
+    "platform": "youtube",
+    "url": "https://www.youtube.com/shorts/iurkvbKhwhE",
+    "handle": "PeterHannamCarpentry",
+    "text": "How to Cut Insulation like a Pro 👌Roof Install, what do you rate it out of 10?",
+    "views": 181000,
+    "posted": "3 days ago (as shown 11 Nov)",
+    "format": "Satisfying pro-technique demo + 'rate it out of 10' prompt",
+    "sound": "That's The Way (Party Pupils Remix) - KC & The Sunshine Band",
+    "account_median": 10500,
+    "median_basis": "median of 10 latest Shorts view labels: 10k,8.4k,181k,3.4k,11k,5.3k,9.9k,14k,33k,12k",
+    "outlier_ratio": 17.2
+   },
+   {
+    "platform": "x",
+    "url": "https://x.com/retalsp/status/2119805222449238032",
+    "handle": "retalsp",
+    "text": "The thing I remember most about Tommy Walsh is that for a while Wilko stores stocked Tommy Walsh brand nails, screws and brackets. RIP (Tommy and Wilko)",
+    "views": 3498,
+    "likes": 8,
+    "reposts": 0,
+    "posted": "2026-11-09T14:52:03.000Z",
+    "format": "personal nostalgia anecdote (Tommy Walsh Wilko tool range)",
+    "account_median": 241.0,
+    "median_basis": "median impression_count of 16 20 recent originals, 2026-11-07 to 2026-11-10 (X user timeline read 11 Nov 2026)",
+    "outlier_ratio": 14.51,
+    "flag": "UK personal account (not trade). Organic nostalgia take on a trade-celebrity death."
+   },
+   {
+    "platform": "x",
+    "url": "https://x.com/FixRadioUK/status/2119808722482467183",
+    "handle": "FixRadioUK",
+    "text": "Ground Force star Tommy Walsh has died at the age of 69.\n\nWalsh's agent said that the much -loved TV Presenter \"died peacefully after a long illness, surrounded by his family.\" \n\nThe thoughts of everyone at Fix Radio are with Tommy's friends and family 🧡 https://t.co/Q5wN76AW3i",
+    "views": 4629,
+    "likes": 130,
+    "reposts": 15,
+    "posted": "2026-11-09T15:05:58.000Z",
+    "format": "news/RIP photo post (Tommy Walsh death)",
+    "account_median": 839,
+    "median_basis": "median impression_count of 25 25 recent originals, 2026-11-02 to 2026-11-10 (X user timeline read 11 Nov 2026)",
+    "outlier_ratio": 5.52
+   },
+   {
+    "platform": "x",
+    "url": "https://x.com/FixRadioUK/status/2120148778229387591",
+    "handle": "FixRadioUK",
+    "text": "Brad and Sam pay tribute to Tommy Walsh 🧡 https://t.co/U4W1Pb0tVD",
+    "views": 2775,
+    "likes": 48,
+    "reposts": 3,
+    "posted": "2026-11-10T13:37:13.000Z",
+    "format": "radio studio clip: presenters tribute (Tommy Walsh)",
+    "account_median": 839,
+    "median_basis": "median impression_count of 25 25 recent originals, 2026-11-02 to 2026-11-10 (X user timeline read 11 Nov 2026)",
+    "outlier_ratio": 3.31
+   },
+   {
+    "platform": "x",
+    "url": "https://x.com/Superstar_Cars/status/2119844753709953414",
+    "handle": "Superstar_Cars",
+    "text": "Very sad news. RIP Tommy Walsh, TV personality, presenter and celebrity builder, best known for the gardening, home and DIY shows Ground Force, Challenge Tommy Walsh and Homes Under The Hammer. \n\n📸 “Mr DIY” with Ground Force’s trusty Mitsubishi Fuso Canter. \n\n#RIPTommyWalsh https://t.co/uzLHnWRAwp",
+    "views": 4268,
+    "likes": 143,
+    "reposts": 24,
+    "posted": "2026-11-09T17:29:08.000Z",
+    "format": "celebrity RIP tribute with photos",
+    "account_median": 1402.0,
+    "median_basis": "median impression_count of 20 20 recent originals, 2026-11-03 to 2026-11-10 (X user timeline read 11 Nov 2026)",
+    "outlier_ratio": 3.04,
+    "flag": "UK nostalgia/celebrity account (not trade). Included only for the Tommy Walsh tribute."
+   },
+   {
+    "platform": "youtube",
+    "url": "https://www.youtube.com/shorts/--SPzBedqDk",
+    "handle": "omelectrical_",
+    "text": "How to build ikea built in wardrobes",
+    "views": 67000,
+    "posted": "5 days ago (as shown 11 Nov)",
+    "format": "IKEA built-in wardrobe install how-to",
+    "sound": null,
+    "account_median": 23000,
+    "median_basis": "median of 12 latest Shorts view labels: 8.3k,24k,11k,67k,22k,38k,35k,7.7k,16k,77k,14k,64k",
+    "outlier_ratio": 2.9
+   },
+   {
+    "platform": "x",
+    "url": "https://x.com/FixRadioUK/status/2120069530420392367",
+    "handle": "FixRadioUK",
+    "text": "\"I want to see where my money is going\"🤯\n\nAre these the worst type of customers?🫣 https://t.co/a6HdxYk5HL",
+    "views": 1595,
+    "likes": 3,
+    "reposts": 0,
+    "posted": "2026-11-10T08:22:19.000Z",
+    "format": "radio clip + debate question: worst type of customers",
+    "account_median": 839,
+    "median_basis": "median impression_count of 25 25 recent originals, 2026-11-02 to 2026-11-10 (X user timeline read 11 Nov 2026)",
+    "outlier_ratio": 1.9
+   },
+   {
+    "platform": "x",
+    "url": "https://x.com/FixRadioUK/status/2120201679740010515",
+    "handle": "FixRadioUK",
+    "text": "Is finding reliable people the HARDEST part of expanding your trade business? 🤔\n\nAsh Mahoney explains to Al The Trowel why he's stripped back his business and let most of his lads go. https://t.co/VOnqXqGmk5",
+    "views": 1550,
+    "likes": 6,
+    "reposts": 2,
+    "posted": "2026-11-10T17:07:26.000Z",
+    "format": "podcast clip + debate question: finding reliable staff",
+    "account_median": 839,
+    "median_basis": "median impression_count of 25 25 recent originals, 2026-11-02 to 2026-11-10 (X user timeline read 11 Nov 2026)",
+    "outlier_ratio": 1.85
+   },
+   {
+    "platform": "x",
+    "url": "https://x.com/FixRadioUK/status/2119877738194464805",
+    "handle": "FixRadioUK",
+    "text": "\"Experience is KEY\" 👏\n\nShould Grandfather Rights be brought back? 🤔 https://t.co/Zp4UkoKpco",
+    "views": 1399,
+    "likes": 6,
+    "reposts": 0,
+    "posted": "2026-11-09T19:40:12.000Z",
+    "format": "radio clip + debate question: bring back Grandfather Rights",
+    "account_median": 839,
+    "median_basis": "median impression_count of 25 25 recent originals, 2026-11-02 to 2026-11-10 (X user timeline read 11 Nov 2026)",
+    "outlier_ratio": 1.67
+   },
+   {
+    "platform": "x",
+    "url": "https://x.com/RoofingToday/status/2120110309570498853",
+    "handle": "RoofingToday",
+    "text": "Site visits cost time and money, often before you’ve even won the job. @BMIUKandIreland PlanMaster gives you detailed roof data remotely, so you can assess projects and prepare estimates before visiting site.\n\nGet a new perspective on roof measurements 👉 https://t.co/FW5JewpOHu https://t.co/PNsiWbQ7te",
+    "views": 89,
+    "likes": 2,
+    "reposts": 0,
+    "posted": "2026-11-10T11:04:22.000Z",
+    "format": "trade press video: site-visit cost/tech",
+    "account_median": 61.0,
+    "median_basis": "median impression_count of 20 recent originals excl. self-reply threads, 2026-11-04 to 2026-11-10 (X user timeline read 11 Nov 2026)",
+    "outlier_ratio": 1.46
+   },
+   {
+    "platform": "x",
+    "url": "https://x.com/FixRadioUK/status/2120246160606576791",
+    "handle": "FixRadioUK",
+    "text": "\"It's absurd\" 🤯\n\nShould 16 and 17-year-olds be allowed on UK building sites? 🤔 https://t.co/J7HQUQr44n",
+    "views": 905,
+    "likes": 5,
+    "reposts": 1,
+    "posted": "2026-11-10T20:04:11.000Z",
+    "format": "radio clip + debate question: 16-17 year olds on sites",
+    "account_median": 839,
+    "median_basis": "median impression_count of 25 25 recent originals, 2026-11-02 to 2026-11-10 (X user timeline read 11 Nov 2026)",
+    "outlier_ratio": 1.08
+   }
+  ],
+  "hits_by_platform": {
+   "x": 10,
+   "youtube": 2,
+   "tiktok": 0
+  },
+  "keywords": [
+   "Tommy Walsh",
+   "Ground Force",
+   "RIP Tommy Walsh",
+   "worst type of customers",
+   "\"I want to see where my money is going\"",
+   "Grandfather Rights",
+   "16 and 17-year-olds on building sites",
+   "finding reliable people / letting the lads go",
+   "rained off",
+   "lads on site",
+   "REFINA / SUPERSKIM (plastering tools)",
+   "rate it out of 10",
+   "ikea wardrobe"
+  ],
+  "formats": [
+   "Trade-celebrity death/tribute (Tommy Walsh, died 9 Nov 2026): the biggest UK trade-adjacent spike of the window. FixRadioUK's news photo post hit 5.5x median and the studio tribute clip 3.3x; non-trade UK accounts also beat their medians with it",
+   "Radio/podcast clip + a quote hook in quote marks + a 'Should...? 🤔' debate question (FixRadioUK): steady 1.1-1.9x. Customer-money and staffing topics did best",
+   "Customer-behaviour moan ('I want to see where my money is going' / worst type of customers): 1.9x",
+   "Brand UGC repost naming a real tradesperson's firm using the product (RefinaLtd): very high but probably boosted",
+   "Personal nostalgia anecdote about a trade figure (Wilko Tommy Walsh tool range): 14.5x on a small personal account",
+   "YouTube: satisfying technique demo + 'rate it out of 10' prompt (17.2x)",
+   "YouTube: flat-pack/IKEA install how-to (2.9x)"
+  ],
+  "sounds": [
+   "That's The Way (Party Pupils Remix) - KC & The Sunshine Band (Peter Hannam 17.2x Short)"
+  ],
+  "ideas": [
+   {
+    "title": "Rate my work out of 10",
+    "hook_formula": "Rate-it-out-of-10 prompt on a satisfying pro technique",
+    "hook": "'Cut it like a pro. What do you rate it out of 10?'",
+    "source": "https://www.youtube.com/shorts/iurkvbKhwhE",
+    "outlier_ratio": 17.2,
+    "build": "Free stock/AI satisfying trade clip (clean cut, perfect skim), on-screen 'Rate it /10', comments bait; TMW end card. Use UK-looking footage only"
+   },
+   {
+    "title": "Real tradie, real kit",
+    "hook_formula": "Named-tradie UGC showcase (product/job in use)",
+    "hook": "'[Trade firm] doing it properly' style showcase",
+    "source": "https://x.com/RefinaLtd/status/2119777106972332532",
+    "outlier_ratio": 18.04,
+    "build": "Ratio likely boosted/paid. Future: repost a UK TMW user's job with their firm name (with permission); for now note only"
+   },
+   {
+    "title": "Where's my money going?",
+    "hook_formula": "Customer-quote hook in quote marks + 'Are these the worst customers?'",
+    "hook": "Customer texts: 'Can you send me a breakdown of where every penny is going?'",
+    "source": "https://x.com/FixRadioUK/status/2120069530420392367",
+    "outlier_ratio": 1.9,
+    "build": "Chat-bubble customer texts Reel, British wording; payoff = itemised quote from TMW. Caption 'Send this to the lad who's had this customer'"
+   },
+   {
+    "title": "While you're here... the IKEA wardrobe",
+    "hook_formula": "'While you're here' scope-creep customer ask",
+    "hook": "Customer texts: 'While you're doing the sockets could you just build the IKEA wardrobe?'",
+    "source": "https://www.youtube.com/shorts/--SPzBedqDk",
+    "outlier_ratio": 2.9,
+    "build": "Chat-bubble Reel, escalating flat-pack asks; TMW end card on adding extras to the job/quote"
+   },
+   {
+    "title": "Tools every UK tradie owned in 2005",
+    "hook_formula": "UK trade nostalgia ('if you remember this...')",
+    "hook": "'If you had this from Wilko, you're old enough to remember…'",
+    "source": "https://x.com/retalsp/status/2119805222449238032",
+    "outlier_ratio": 14.51,
+    "build": "Meme carousel/Reel of old UK DIY-shop tool memories. Don't reference Tommy Walsh's death or use his image; keep it general nostalgia"
+   }
+  ],
+  "notes": "X watchlist pruned (status per account; 10 dormant). New YouTube account: @PeterHannamCarpentry. TikTok blocked by blank pages, no captcha. Window 9 Nov 07:25 UTC to 11 Nov ~07:25 UTC (UK time = UTC this week). About 15 public X read calls, all read-only, none failed. search_posts_all returned at most 25 posts per call even with max_results 100/500, so per-account medians came from get_users_posts timelines (20-25 originals each, replies and self-reply threads left out). Of the key accounts, only FixRadioUK posted trade content that beat its median in the window (its median is now 839, was 668 on 9 Nov). TradesTalk's last original (8 Nov 18:02) is outside the window, and next #TradesTalk is Tue 17 Nov. Screwfix's timeline has no original posts since 5 Aug 2024 (replies only). Checkatrade's last post was 21 Oct and skillbuilderuk's 27 Oct, so neither has hits. plumberparts is dormant (last 25 Dec 2024); the brief said 'plumbersparts', but the real handle is plumberparts. ToolstationUK is dormant (last 17 Sep 2025). GasSafeRegister's 10 Nov post had 203 views against a median of 350, so it's below median. RoofingToday's best was 89 views (1.46x its median of 61), so low absolute numbers. Keyword searches (site banter/sparky/plumber life/customer texts/just a quick job/tradesman/tradie/on the tools) were mostly US/Asian AI-receptionist SaaS spam, so I dropped them. 'Sparky' also matched a US cartoon fandom and an ASU mascot (dropped). 'rained off' matched an adult-content account (dropped). No organic UK tradesperson comedy post on X beat its median in the window, which confirms that UK trade comedy is thin on X. Raw tool outputs are saved in /workspace/trademyway/virality/raw-2026-11-11/."
  }
 ]
