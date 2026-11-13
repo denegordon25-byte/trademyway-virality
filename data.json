@@ -1149,5 +1149,197 @@
    }
   ],
   "notes": "X watchlist pruned (status per account; 10 dormant). New YouTube account: @PeterHannamCarpentry. TikTok blocked by blank pages, no captcha. Window 9 Nov 07:25 UTC to 11 Nov ~07:25 UTC (UK time = UTC this week). About 15 public X read calls, all read-only, none failed. search_posts_all returned at most 25 posts per call even with max_results 100/500, so per-account medians came from get_users_posts timelines (20-25 originals each, replies and self-reply threads left out). Of the key accounts, only FixRadioUK posted trade content that beat its median in the window (its median is now 839, was 668 on 9 Nov). TradesTalk's last original (8 Nov 18:02) is outside the window, and next #TradesTalk is Tue 17 Nov. Screwfix's timeline has no original posts since 5 Aug 2024 (replies only). Checkatrade's last post was 21 Oct and skillbuilderuk's 27 Oct, so neither has hits. plumberparts is dormant (last 25 Dec 2024); the brief said 'plumbersparts', but the real handle is plumberparts. ToolstationUK is dormant (last 17 Sep 2025). GasSafeRegister's 10 Nov post had 203 views against a median of 350, so it's below median. RoofingToday's best was 89 views (1.46x its median of 61), so low absolute numbers. Keyword searches (site banter/sparky/plumber life/customer texts/just a quick job/tradesman/tradie/on the tools) were mostly US/Asian AI-receptionist SaaS spam, so I dropped them. 'Sparky' also matched a US cartoon fandom and an ASU mascot (dropped). 'rained off' matched an adult-content account (dropped). No organic UK tradesperson comedy post on X beat its median in the window, which confirms that UK trade comedy is thin on X. Raw tool outputs are saved in /workspace/trademyway/virality/raw-2026-11-11/."
+ },
+ {
+  "date": "2026-11-13",
+  "window": "2026-11-12 07:00 to 2026-11-13 07:20 UK time (X); YouTube Shorts last 3-5 days; TikTok pages failed to load again (blank)",
+  "summary": "Biggest UK trade outlier was a customer's 'is £310/hour about right?' boiler-repair bill post (bagshaw2112, 299k views, 203x his 1.5k median, 144 replies) that tradespeople piled on to explain labour was really £155. A Scottish plumber's 'you're paying for knowledge not time' quote-reply hit 64.8k (28.7x). YouTube: Peter Hannam Carpentry's 'rate it out of 10' insulation Short still climbing (202k, 16.8x); ItsRamzTV 'Is this the UK's BEST labourer?' 2.8x. Fix Radio's 'SEVEN essentials' debate clip 1.6x. TikTok didn't load.",
+  "hits": [
+   {
+    "platform": "x",
+    "url": "https://x.com/bagshaw2112/status/2120853633189269540",
+    "handle": "bagshaw2112",
+    "text": "Not being tight but is this about right . Had a repair in my boiler yesterday, the plumber was there for 30 minutes - so the labour cost was £310.00 per hour ! Seems a bit steep... is £300 per hour the going rate ?",
+    "views": 299370,
+    "likes": 100,
+    "replies": 144,
+    "quotes": 15,
+    "reposts": 7,
+    "posted": "2026-11-12T12:18:04Z",
+    "format": "customer invoice moan: photo of plumber's bill + 'is this about right?' question",
+    "account_median": 1471.5,
+    "median_basis": "median impression_count of 24 recent originals, 12-13 Nov 2026 (X user timeline read 13 Nov 2026)",
+    "outlier_ratio": 203.4,
+    "flag": "UK customer (Telford, 126k followers, retired; not trade). Pile-on of tradespeople explaining labour was really £155 incl. diagnosis, parts run and travel."
+   },
+   {
+    "platform": "x",
+    "url": "https://x.com/FrazHoehle/status/2120908150815514712",
+    "handle": "FrazHoehle",
+    "text": "Looks like Labour was £155? You're paying for knowledge not time.. Diagnose the fault , order parts , collect parts and the cherry on the cake is knowing exactly what to do in 30 minutes",
+    "views": 64750,
+    "likes": 261,
+    "replies": 11,
+    "reposts": 1,
+    "posted": "2026-11-12T15:54:42Z",
+    "format": "tradesperson quote-reply defending the price ('you're paying for knowledge not time')",
+    "account_median": 2255,
+    "median_basis": "median impression_count of 25 recent originals, 10 Oct-12 Nov 2026 (X user timeline read 13 Nov 2026)",
+    "outlier_ratio": 28.71,
+    "flag": "Scottish plumber ('I'm a plumber to trade'), 16.3k followers; also posts football. New watchlist candidate."
+   },
+   {
+    "platform": "youtube",
+    "url": "https://www.youtube.com/watch?v=iurkvbKhwhE",
+    "handle": "PeterHannamCarpentry",
+    "text": "How to Cut Insulation like a Pro 👌Roof Install, what do you rate it out of 10?",
+    "views": 202000,
+    "posted": "5 days ago (as shown 13 Nov)",
+    "format": "satisfying pro-technique demo + 'rate it out of 10' prompt",
+    "sound": "none shown on page (11 Nov read: That's The Way, Party Pupils Remix)",
+    "account_median": 12000,
+    "median_basis": "median of 10 latest Shorts labels: 32k,11k,202k,3.4k,11k,5.4k,10k,14k,33k,13k",
+    "outlier_ratio": 16.8,
+    "flag": "Repeat from 11 Nov scan (was 181k / 17.2x); still climbing."
+   },
+   {
+    "platform": "x",
+    "url": "https://x.com/RefinaLtd/status/2120547160143827414",
+    "handle": "RefinaLtd",
+    "text": "Ryan Clark Plastering getting that clean finish with the PLAZIFLEX 🔥 ... #plastering #plasterer",
+    "views": 1858,
+    "likes": 10,
+    "reposts": 0,
+    "posted": "2026-11-11T16:00:15Z",
+    "format": "brand UGC repost: named plastering firm's clean-finish clip",
+    "account_median": 472.5,
+    "median_basis": "median impression_count of 20 recent originals, 29 Sep-9 Nov 2026 (from 11 Nov read; not re-read today)",
+    "outlier_ratio": 3.93,
+    "flag": "Outside 24h (posted ~39h before scan). Account spikes look boosted; treat with caution."
+   },
+   {
+    "platform": "youtube",
+    "url": "https://www.youtube.com/watch?v=lZqwIcsk8u8",
+    "handle": "ItsRamzTV",
+    "text": "Is this the UK's BEST labourer? 😂British work banter",
+    "views": 2300,
+    "posted": "3 days ago (as shown 13 Nov)",
+    "format": "site-banter comedy clip with UK superlative question title",
+    "hook": "Is this the UK's BEST labourer?",
+    "account_median": 823,
+    "median_basis": "median of 10 latest Shorts labels: 1.2k,673,160,690,2.3k,54,845,1.1k,5.5k,801",
+    "outlier_ratio": 2.8,
+    "flag": "New small UK banter channel."
+   },
+   {
+    "platform": "x",
+    "url": "https://x.com/FixRadioUK/status/2120848638343549369",
+    "handle": "FixRadioUK",
+    "text": "\"That's going to make you a DREADFUL Tradesperson\" 👊 What are the SEVEN essentials to being a good tradesperson? 🤔",
+    "views": 1269,
+    "likes": 5,
+    "replies": 1,
+    "posted": "2026-11-12T11:58:13Z",
+    "format": "radio studio clip + 'what are the X essentials' debate question",
+    "account_median": 773,
+    "median_basis": "median impression_count of 25 recent originals, 4-12 Nov 2026 (X user timeline read 13 Nov 2026)",
+    "outlier_ratio": 1.64
+   },
+   {
+    "platform": "x",
+    "url": "https://x.com/Wbafcleigh11/status/2120886705444016603",
+    "handle": "Wbafcleigh11",
+    "text": "Plumbers time to pick part up, Plumbers time to drive to your house, fuel, van insurance, wear and tear, a skill not many can do, and NO I'm not a plumber but work in construction 🤔",
+    "views": 711,
+    "likes": 3,
+    "replies": 1,
+    "posted": "2026-11-12T14:29:29Z",
+    "format": "quote-reply listing hidden costs behind a call-out price",
+    "account_median": 500,
+    "median_basis": "median impression_count of 25 recent originals, 3-12 Nov 2026 (X user timeline read 13 Nov 2026)",
+    "outlier_ratio": 1.42,
+    "flag": "UK construction worker (West Brom fan)."
+   },
+   {
+    "platform": "x",
+    "url": "https://x.com/FixRadioUK/status/2120958635761188892",
+    "handle": "FixRadioUK",
+    "text": "The lies that every tradesperson tells... 🤥",
+    "views": 663,
+    "likes": 1,
+    "replies": 1,
+    "posted": "2026-11-12T19:15:18Z",
+    "format": "radio clip listicle: 'lies every tradesperson tells'",
+    "account_median": 773,
+    "median_basis": "as above",
+    "outlier_ratio": 0.86,
+    "flag": "Only ~12h old at scan; hook worth noting (topic matches 'best lies on site' keyword)."
+   }
+  ],
+  "keywords": [
+   "is this about right",
+   "£ per hour",
+   "call-out charge",
+   "labour vs parts",
+   "paying for knowledge not time",
+   "rate it out of 10",
+   "UK's best labourer",
+   "lies every tradesperson tells",
+   "essentials of a good tradesperson"
+  ],
+  "formats": [
+   "customer invoice moan + trade pile-on (price justification)",
+   "tradesperson quote-reply reframe",
+   "satisfying demo + 'rate it out of 10'",
+   "UK superlative question title",
+   "radio debate clip with numbered list question"
+  ],
+  "ideas": [
+   {
+    "rank": 1,
+    "idea": "Customer-texts chat bubble: customer sends 'Plumber was there 30 mins and charged £310?! Is this about right?' and the tradie replies with the breakdown (diagnosis, parts run, travel, £155 labour). Caption nudge: 'Send this to the customer who reads the total, not the invoice.'",
+    "hook_formula": "Customer price-outrage quote ('Is this about right?')",
+    "source_url": "https://x.com/bagshaw2112/status/2120853633189269540",
+    "outlier_ratio": 203.4,
+    "platform_fit": "IG/TikTok/Shorts chat-bubble video, no people"
+   },
+   {
+    "rank": 2,
+    "idea": "Meme Reel with customer-quote hook: 'It only took you 30 minutes' -> on-screen reply 'You're paying for the 15 years it took to do it in 30 minutes.'",
+    "hook_formula": "Reframe: paying for knowledge, not time",
+    "source_url": "https://x.com/FrazHoehle/status/2120908150815514712",
+    "outlier_ratio": 28.71,
+    "platform_fit": "meme Reel, Grok Imagine clip + TMW end card"
+   },
+   {
+    "rank": 3,
+    "idea": "'Rate this quote out of 10' picture/Reel: show a messy handwritten quote vs a clean itemised TradeMyWay quote, and ask trades to rate it out of 10 in the comments.",
+    "hook_formula": "Rate it out of 10 comment prompt",
+    "source_url": "https://www.youtube.com/watch?v=iurkvbKhwhE",
+    "outlier_ratio": 16.8,
+    "platform_fit": "IG carousel / Shorts"
+   },
+   {
+    "rank": 4,
+    "idea": "Itemised receipt reveal: 'What the £155 call-out actually covers' as a receipt slowly printing: travel, diagnosis, Screwfix run, van insurance, the knowledge. Soft product tie-in: itemised quotes and invoices stop the 'is this about right?' texts.",
+    "hook_formula": "Hidden-costs itemised receipt",
+    "source_url": "https://x.com/Wbafcleigh11/status/2120886705444016603",
+    "outlier_ratio": 1.42,
+    "platform_fit": "picture post / short text-animation Reel"
+   },
+   {
+    "rank": 5,
+    "idea": "UK superlative question hook: 'Is this the UK's worst customer text?' chat-bubble series with a real-sounding British customer message each episode, asking trades to send in worse ones.",
+    "hook_formula": "UK superlative question ('Is this the UK's BEST/WORST...?')",
+    "source_url": "https://www.youtube.com/watch?v=lZqwIcsk8u8",
+    "outlier_ratio": 2.8,
+    "platform_fit": "recurring chat-bubble series"
+   }
+  ],
+  "hits_by_platform": {
+   "x": 6,
+   "youtube": 2,
+   "tiktok": 0
+  }
  }
 ]
